@@ -7,7 +7,7 @@
 </h1>
 
 
-## Table of content
+## Table of contents
 
 - [Python](#python)
 - [Django](#django)
