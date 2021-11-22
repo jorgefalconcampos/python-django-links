@@ -13,6 +13,7 @@
 - [Django](#django)
     - [Django Rest Framework](#django-rest-framework)
     - [Django and Vue](#django-and-vue)
+    - [Django and React](#django-and-react)
 - [Other Links](#other-links)
 
 
@@ -39,6 +40,9 @@
 
 ### Django and Vue
 * [Blog con Django y Vue](https://youtu.be/A12qkUvrzK4)
+
+### Django and React
+* [Real State App](https://youtu.be/cfyOMEO7Kgs)
 
 
 
